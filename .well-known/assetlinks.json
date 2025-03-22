@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "kr.co.heartraveler.heartraveler_app",
+      "sha256_cert_fingerprints":
+      ["11:20:37:32:5C:9D:F1:3A:7D:E4:BD:75:36:1F:74:5E:C3:32:B2:77:25:92:BF:E8:14:00:B0:53:C0:94:A0:8F"]
+    }
+  }]
